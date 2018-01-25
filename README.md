@@ -4,6 +4,7 @@
 
 example : 
 for css file : <link rel="stylesheet", href="path/to/snackbar.css" >
+<br>
 for js file : <script src="path/to/snackbar.js"></script>
 
 
